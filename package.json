@@ -1,0 +1,28 @@
+{
+  "name": "solodop-sdk",
+  "version": "1.0.0",
+  "description": "A Node.js module for cryptographic utility functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spleef3222/solodop-sdk"
+  },
+  "dependencies": {
+	  "func-pp06": "1.0.0",
+"squarunblownett-jps": "1.0.0",
+"donaldrodriguez": "1.0.0",
+"vl75-comm": "1.0.0",
+"pp06": "1.0.0",
+"pologovsemen": "1.0.0",
+    "crypto": "^1.0.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spleef3222/solodop-sdk/issues"
+  },
+  "homepage": "https://github.com/spleef3222/solodop-sdk#readme"
+}
